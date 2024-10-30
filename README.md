@@ -1,0 +1,1 @@
+为IbukiCoide软件提供shader开发的支持，在IbukiCode中点击"链接"后，UnityEditor中自动做出反应，重载这个Shader
